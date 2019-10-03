@@ -1,4 +1,4 @@
-=begin def square_array(array)
+def square_array(array)
   total = 0
   new_array = []
   while array[total] do
@@ -8,8 +8,4 @@
   end
   return new_array
 end
-=end
-
-def square_array(array)
-  while 
 
